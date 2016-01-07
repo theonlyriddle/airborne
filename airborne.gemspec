@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rspec-core', '~> 3.4', '>= 3.4.1'
   s.add_runtime_dependency 'rspec-expectations', '~> 3.4', '>= 3.4.0'
   s.add_runtime_dependency 'rspec-mocks', '~> 3.4', '>= 3.4.0'
-  s.add_runtime_dependency 'rspec-support', '>= 3.5.0.pre', '>= 3.5.0.pre'
   s.add_runtime_dependency 'rest-client', '~> 1.7', '>= 1.7.3' # version 1.7.3 fixes security vulnerability https://github.com/brooklynDev/airborne/issues/41
   s.add_runtime_dependency 'rack-test', '~> 0.6', '>= 0.6.2'
   s.add_runtime_dependency 'activesupport', '>= 3.0.0', '>= 3.0.0'
